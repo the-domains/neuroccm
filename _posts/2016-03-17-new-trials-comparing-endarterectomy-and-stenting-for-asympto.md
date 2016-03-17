@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: New Trials Comparing Endarterectomy and Stenting for Asymptomatic Carotid Artery Stenosis
-datePublished: '2016-03-17T21:55:22.028Z'
-dateModified: '2016-03-17T21:54:41.828Z'
+datePublished: '2016-03-17T21:58:49.491Z'
+dateModified: '2016-03-17T21:58:46.418Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-17-new-trials-comparing-endarterectomy-and-stenting-for-asympto.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-new-trials-comparing-endarterectomy-and-stenting-for-asympto.md
-published: true
 url: new-trials-comparing-endarterectomy-and-stenting-for-asympto/index.html
 _type: Article
 
 ---
 New Trials Comparing Endarterectomy and Stenting for Asymptomatic Carotid Artery Stenosis
-![Endarterectomy graphic](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f074ca1-ad2e-4ba5-83ea-aa411d0391f6.jpg)
+![Endarterectomy graphic](https://s3-us-west-2.amazonaws.com/the-grid-img/p/784c6a3ddad9efc2b6d30ac4a43653545096bc21.jpg)
 
 In the March 17, 2016 edition of the NEJM two large randomized trials reported on findings of endarterectomy vs. stenting - the trials are called Asymptomatic Carotid
 Trial (ACT I) and the Carotid Revascularization
