@@ -1,7 +1,7 @@
 name: neuroccm
 favicon: null
-layout_spectrum: 0.5769407264888287
-typography_spectrum: 0.3833032266702503
+layout_spectrum: 0.24817
+typography_spectrum: 0.47795
 title: neuroccm - Houman Khosravani
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#27200e'
+    - '#a09955'
+    - '#005739'
+    - '#4bffff'
   brandStrength: 0.125
   lightness: 0.8011942317243665
   saturation: 0.625
